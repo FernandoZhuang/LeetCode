@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UniqueMorseCodeWords.cpp">
+    <ClCompile Include="N-RepeatedElementInSize2NArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
