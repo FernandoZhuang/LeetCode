@@ -5,7 +5,7 @@
 using namespace std;
 
 int repeatedNTimes(vector<int>& A) {
-	vector<bool> arr(1001, false);
+	vector<bool> arr(10001, false);
 	for (auto i : A) {
 		if (arr[i] == false)
 			arr[i] = true;
