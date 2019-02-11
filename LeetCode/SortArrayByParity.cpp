@@ -16,7 +16,6 @@ public:
 			even.push_back(i);
 		return even;
 	}
-
 	vector<int> sortArrayByParitySwap(vector<int>& A) {
 		int oddFlag = 0;
 		for (int i = 0; i < A.size(); i++)
