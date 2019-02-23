@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FindandReplacePattern.cpp">
+    <ClCompile Include="hammingDistance.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
