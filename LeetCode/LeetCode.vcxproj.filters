@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="deleteColumnstoMakeSorted.cpp">
+    <ClCompile Include="AllPathFromSourceToTarget.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
