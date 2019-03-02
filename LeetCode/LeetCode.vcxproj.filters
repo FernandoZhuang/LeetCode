@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UniquePath.cpp">
+    <ClCompile Include="MinimumAddtoMakeParenthesesValid.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
