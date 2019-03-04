@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MergeTwoBinaryTrees.cpp">
+    <ClCompile Include="SelfDividingNumbers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
