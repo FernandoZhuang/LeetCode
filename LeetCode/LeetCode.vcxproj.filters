@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SelfDividingNumbers.cpp">
+    <ClCompile Include="PeakIndexInMountArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
