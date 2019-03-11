@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ScoreAfterFlippingMatrix.cpp">
+    <ClCompile Include="MaximizeSumofArrayAfterKNegations.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
