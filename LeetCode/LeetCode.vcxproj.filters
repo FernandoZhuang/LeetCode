@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArrayPartionI.cpp">
+    <ClCompile Include="SumofEvenNumbersAfterQueries.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
