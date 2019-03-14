@@ -1,3 +1,12 @@
+ ## Tree
+
+ ### Traversal
+
+ #### Iteratively
+
+ 1. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+ 2. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+
  ## Graph 
 
  ### Traversal 
