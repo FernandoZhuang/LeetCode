@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="N-aryTreePosterorderTraversal.cpp">
+    <ClCompile Include="N-aryTreePreorderTraversal.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
