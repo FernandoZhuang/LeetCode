@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="N-aryTreePreorderTraversal.cpp">
+    <ClCompile Include="DistributeCoinsinBinaryTrees.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
