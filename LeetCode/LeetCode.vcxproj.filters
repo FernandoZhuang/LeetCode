@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DistributeCoinsinBinaryTrees.cpp">
+    <ClCompile Include="KClosestPointsToOrigin.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
