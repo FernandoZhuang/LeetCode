@@ -7,6 +7,10 @@
  1. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
  2. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 
+ #### Recursively
+
+ 1.  :fire: [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/): Tricks about 1) Move 2)	Equal to "Decision".Learn a lot from [Lee215](https://leetcode.com/problems/distribute-coins-in-binary-tree/discuss/221930/JavaC%2B%2BPython-Recursive-Solution).
+
  ## Graph 
 
  ### Traversal 
@@ -17,7 +21,7 @@
 
  ### 2D Array
 
- 1. [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/): Recurrence
+ 1. [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/): Recurrence.
 
  ## Greedy
 
