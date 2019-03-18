@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="KClosestPointsToOrigin.cpp">
+    <ClCompile Include="CapacityToShipPackagesWithinDDays.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
