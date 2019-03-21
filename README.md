@@ -10,6 +10,7 @@
  #### Recursively
 
  1.  :fire: [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/): Tricks about 1) Move 2)	Equal to "Decision".Learn a lot from [Lee215](https://leetcode.com/problems/distribute-coins-in-binary-tree/discuss/221930/JavaC%2B%2BPython-Recursive-Solution).
+ 2. [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/): **Two Trees**.
 
  ## Graph 
 
