@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FlipEquvalentBinaryTree.cpp">
+    <ClCompile Include="MaximumDepthOfN-aryTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
