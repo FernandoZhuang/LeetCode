@@ -1,3 +1,9 @@
+ ## 2D Array
+
+ ### Traversal
+
+ 1. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/).
+ 
  ## Tree
 
  ### Traversal
@@ -20,13 +26,13 @@
 
  ### Traversal 
 
- 1. [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/): Recurrence and Stack implemented by array.
+ 1. [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/): Recursion and Stack implemented by array.
 
  ## Backtrack
 
  ### 2D Array
 
- 1. [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/): Recurrence.
+ 1. [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/): Recursion.
 
  ## Greedy
 
