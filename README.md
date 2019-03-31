@@ -3,6 +3,10 @@
  ### Traversal
 
  1. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/).
+
+ ### Recursion
+
+ 1. [Number of Enclaves](https://leetcode.com/contest/weekly-contest-130/problems/number-of-enclaves/).
  
  ## Tree
 
