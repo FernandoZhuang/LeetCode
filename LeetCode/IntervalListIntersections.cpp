@@ -52,7 +52,7 @@ struct Interval {
 vector<Interval> intervalIntersection(vector<Interval>& A, vector<Interval>& B) {
 	vector<Interval> ret;
 	int mx = 0, mn = 0;
-	for (int i = 0, j = 0; i < A.size() && j < B.size(); i++, j++) {
+	for (int i = 0, j = 0; i < A.size() && j < B.size();) {
 		mx = max(A[i].start, B[j].start);
 		mn = min(A[i].end, B[j].end);
 		if (mx <= mn) {
