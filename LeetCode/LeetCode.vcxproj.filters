@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ShortDistanceToaCharacter.cpp">
+    <ClCompile Include="IntervalListIntersections.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
