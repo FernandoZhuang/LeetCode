@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UncommanWordsFromTwoSentences.cpp">
+    <ClCompile Include="IslandPerimeter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
