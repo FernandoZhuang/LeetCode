@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PancakeSorting.cpp">
+    <ClCompile Include="UncommanWordsFromTwoSentences.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
