@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IslandPerimeter.cpp">
+    <ClCompile Include="RemoveOuterMostParentheses.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
