@@ -21,19 +21,18 @@
  
  ## Tree
 
- ### Traversal
-
- #### Iteratively
+ ### Iteratively
 
  1. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
  2. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 
- #### Recursively
+ ### Recursively
 
  1.  :fire: [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/): Tricks about 1) Move 2)	Equal to "Decision".Learn a lot from [Lee215](https://leetcode.com/problems/distribute-coins-in-binary-tree/discuss/221930/JavaC%2B%2BPython-Recursive-Solution).
  2. [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/): **Two Trees**.
+ 3. [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/): Change the way in which nodes link.
 
- #### DFS && BFS
+ ### DFS && BFS
 
  1. :fire: [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/): 1) **BFS** On each layer, we count how many nodes there 2) The relation about each recursion. 
 
