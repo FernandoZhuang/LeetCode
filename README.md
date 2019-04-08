@@ -1,5 +1,10 @@
  ## Array
 
+ ### 1D Array
+
+ 1. :star: [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/): Trick about Even or Odd!
+ 2. :fire: [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/): 1) How to use "1" and "2" 2) How to use the relation between key and value. 
+
  ### 2D Array
 
  #### Traversal
@@ -53,12 +58,6 @@
  ### 2D Array
 
  1. [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/): [Lee215](https://leetcode.com/problems/score-after-flipping-matrix/discuss/143722/C%2B%2BJavaPython-Easy-and-Concise) is awesome!Without modifing matrix in reality, we can still obtain highest score.
-
- ## Even & Odd
-
- ### 1D Array
-
- 1. :star: [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/): Trick about Even or Odd!
 
  ## Operator
 
