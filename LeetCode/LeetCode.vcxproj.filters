@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FindAllDuplicatesInArray.cpp">
+    <ClCompile Include="TrimaBinarySearchTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
