@@ -4,6 +4,7 @@
 
  1. :star: [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/): Trick about Even or Odd!
  2. :fire: [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/): 1) How to use "1" and "2" 2) How to use the relation between key and value. 
+ 3. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/): Dynamic Planning!
 
  ### 2D Array
 
