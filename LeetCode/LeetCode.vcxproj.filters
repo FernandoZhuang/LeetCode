@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MaximumDifferenceBetweenNodeandAncestor.cpp">
+    <ClCompile Include="DivisorGame.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
