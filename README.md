@@ -59,6 +59,12 @@
 
  1. [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/): [Lee215](https://leetcode.com/problems/score-after-flipping-matrix/discuss/143722/C%2B%2BJavaPython-Easy-and-Concise) is awesome!Without modifing matrix in reality, we can still obtain highest score.
 
+ ## DP
+
+ ### 1D Array
+
+ 1. [Longest Arithmetic Sequence](https://leetcode.com/contest/weekly-contest-132/problems/longest-arithmetic-sequence/): [Lee215](https://leetcode.com/problems/longest-arithmetic-sequence/discuss/274611/JavaC%2B%2BPython-DP) uses "max".
+ 
  ## Operator
 
  1. [Counting Bits](https://leetcode.com/problems/counting-bits/).
