@@ -4,7 +4,7 @@
 
  1. :star: [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/): Trick about Even or Odd!
  2. :fire: [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/): 1) How to use "1" and "2" 2) How to use the relation between key and value. 
- 3. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/): Dynamic Planning!
+ 3. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/): Trick about Maximum.
 
  ### 2D Array
 
@@ -65,6 +65,7 @@
  ### 1D Array
 
  1. [Longest Arithmetic Sequence](https://leetcode.com/contest/weekly-contest-132/problems/longest-arithmetic-sequence/): [Lee215](https://leetcode.com/problems/longest-arithmetic-sequence/discuss/274611/JavaC%2B%2BPython-DP) uses "max".
+ 2. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
  
  ## Operator
 
