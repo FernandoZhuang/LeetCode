@@ -69,3 +69,4 @@
  ## Operator
 
  1. [Counting Bits](https://leetcode.com/problems/counting-bits/).
+ 2. [Single Number](https://leetcode.com/problems/single-number/): How to use "1" and "2".
