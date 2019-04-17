@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DistributeCoins.cpp">
+    <ClCompile Include="FizzBuzz.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
