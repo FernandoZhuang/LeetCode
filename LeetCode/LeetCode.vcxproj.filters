@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ReshapetheMatrix.cpp">
+    <ClCompile Include="MatrixCellsinDistanceOrder.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -16,6 +16,9 @@
 
  1. [Number of Enclaves](https://leetcode.com/contest/weekly-contest-130/problems/number-of-enclaves/).
 
+ #### Math
+ 1. :fire:[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/):Tricks about "Sum".
+
  ### 2 Array
 
  1. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/).
