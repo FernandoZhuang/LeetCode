@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AverageofLevelsinBinaryTree.cpp">
+    <ClCompile Include="BinaryNumberwithAlternatingBits.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
