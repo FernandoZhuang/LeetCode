@@ -69,6 +69,10 @@
 
  1. [Longest Arithmetic Sequence](https://leetcode.com/contest/weekly-contest-132/problems/longest-arithmetic-sequence/): [Lee215](https://leetcode.com/problems/longest-arithmetic-sequence/discuss/274611/JavaC%2B%2BPython-DP) uses "max".
  2. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+
+ ### 2D Array
+
+ 1. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/).
  
  ## Operator
 
