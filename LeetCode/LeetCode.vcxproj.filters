@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BinaryNumberwithAlternatingBits.cpp">
+    <ClCompile Include="InvertaBinaryTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
