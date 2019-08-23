@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SingleElementinaSortedArray.cpp">
+    <ClCompile Include="FairCandySwap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
