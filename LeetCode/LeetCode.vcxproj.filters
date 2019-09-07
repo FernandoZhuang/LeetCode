@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LargestPerimeterTriangle.cpp">
+    <ClCompile Include="SingleNumerIII.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
