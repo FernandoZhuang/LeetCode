@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DistanceBetweenBusStops.cpp">
+    <ClCompile Include="PalindromicSubstrings.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
