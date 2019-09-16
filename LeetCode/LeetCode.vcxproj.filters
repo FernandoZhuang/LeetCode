@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LongestCommonSubsequence.cpp">
+    <ClCompile Include="ScoreofParentheses.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
