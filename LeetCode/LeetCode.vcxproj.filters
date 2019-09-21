@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ScoreofParentheses.cpp">
+    <ClCompile Include="DistributeCandiestoPeople.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
