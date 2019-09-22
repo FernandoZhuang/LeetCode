@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DistributeCandiestoPeople.cpp">
+    <ClCompile Include="BinaryTreeInorderTraversal.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
