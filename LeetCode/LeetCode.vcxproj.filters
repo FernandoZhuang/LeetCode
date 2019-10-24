@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MaxAreaofIsland.cpp">
+    <ClCompile Include="DuplicateZeros.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
