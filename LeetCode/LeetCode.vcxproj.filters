@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SurfaceAreaof3DShapes.cpp">
+    <ClCompile Include="N-thTribonacciNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
